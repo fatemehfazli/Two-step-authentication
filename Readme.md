@@ -1,4 +1,4 @@
-# User authentication
+# Two-step-authentication
 
 - Register 
 - Login
